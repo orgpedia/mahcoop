@@ -17,7 +17,20 @@
 आला आहे. या शासन निर्णया सोबतच्या परिशिष्टातील अनुक्रमांक ३०) ते ३३) व BANK ACCOUNT
 Details मधील अनुक्रमांक ६ येथील खालील प्रमाणे वाचण्यात यावे.
 दि. ०९ जानेवारी, २०२३ रोजीच्या शासन निर्णया सोबतचे “परिशिष्ट”
+---------------------------------------------------------------------------------------------------
+| Sr. No | UID No | Unit Name | Subsidin y Year | Subsid y Amou nt Rs. Lakhs | Policy | bank | Total Bank Amou nt |
+| 1) | NP/2021/10308 | Beekalene Fabrics Pvt. Ltd | 2020 | 40.8 | 2018-23 | Induslnd Bank |  |
+| 2) | NP/2021/10308 | Beekalene Fabrics Pvt. Ltd | 2019 | 30.6 | 2018-23 | Induslnd Bank |  |
+| 3) |  |  |  |  |  |  |  |
+| 4) |  |  |  |  |  |  |  |
+|  |  | Total amount for the bank |  |  |  |  | 71.4 |
+---------------------------------------------------------------------------------------------------
 # Page 2
 शासन शुध्दिपत्रक क्रमांकः संकिर्ण -२०२२/प्र.क्र.३८६/टेक्स-५
 Bank Account Details
 BANK ACCOUNT Details
+-------------------------------------------------------------
+| Sr.No | 6 | Bank Name | Induslnd Bank |
+| Account Name | TUFS-Depos-IDBI | Account Number | 00993564615026 |
+| IFSC Code | INDB0000006 | Total Subsidy Amount Rs. In Lacs | 71.4 |
+-------------------------------------------------------------

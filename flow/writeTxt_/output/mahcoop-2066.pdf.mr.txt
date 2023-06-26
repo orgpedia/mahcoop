@@ -195,6 +195,17 @@ such as parks/ clusters, level of skill development etc. The 4 Zones are- Zone 1
 Maharashtra excluding Dhule and Jalgaon Districts) and Zone 4 (Western Maharashtra
 and Konkan). The district classification of the Zone is given in Annexure B.
 Abbreviations
+---------------------------------------------------------------
+| S. No | Abbreviations | Full Forms |
+| 1. | PLI | Production Linked Incentives |
+| 2. | CIS | Capital Investment Subsidy |
+| 3. | DFLS | Disease Free Laying |
+| 4. | ETP | Effluent Treatment Plants |
+| 5. | ZLD | Zero Liquid Discharge |
+| 6. | MSEDCL | Maharashtra State Electricity Distribution Co. Ltd. |
+| 7. | MEDA | Maharashtra Energy Development Agency |
+| 8. | MSTDC | Maharashtra State Textiles Development Corporation |
+---------------------------------------------------------------
 6. General Administrative Measures for Textile Sector
 i. The eligible units which have already applied for incentives under the previous policy
 i.e., "Textile Policy 2018-2023" of the state will continue to get benefits under that
@@ -255,9 +266,31 @@ The incentives disbursed to the ginning and pressing sector will vary as per the
 The Zonal classification is given in Annexure B.
 1. Capital and Electricity Subsidy:
 Table 1
+---------------------------------------------------------------------------------------------------------------------
+| S.No | Size/ Zone | Financial Assistance in form of Capital Subsidy-% (on fixed capital investment) | Electricity Subsidy |
+| MSME |
+| 1 | Zone 1 | 45% | As per Annexure A |
+| 2 | Zone 2 | 40% |
+| 3 | Zone 3 | 35% |
+| 4 | Zone 4 | 30% |
+| Large Enterprises |
+| 1 | Zone 1 | 40% | As per Annexure A |
+| 2 | Zone 2 | 35% |
+| 3 | Zone 3 | 30% |
+| 4 | Zone 4 | 25% |
+| Mega Enterprises |
+| 1 | Zone 1 | 55% with a maximum up to INR 250 crore, whichever is less | As per Annexure A |
+| 2 | Zone 2 | 50% with a maximum up to INR 225 crore, whichever is less |
+| 3 | Zone 3 | 45% with a maximum up to INR 200 crore, whichever is less |
+---------------------------------------------------------------------------------------------------------------------
 Page 8 of 46
 # Page 9
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | Zone 4 | 40% with a maximum up to INR 175 crore, whichever is less |  |
+| Ultra-Mega Enterprises | High Power Committee (HPC), under Chief Secretary will be constituted to approve the Special Package of Incentives to Ultra Mega projects. For ultra-mega projects the investment will have to be made within a period of 10 years from the date of issue of Letter of Intent from the Department. | As per Annexure A |
+| Please Note | Additional capital subsidy of 5% for SC/ST/ Minority / Ex servicemen units. Additional subsidy of 5% will be eligible for units being run by women (provided that more than 50% of the employees working are women). In case the number of women employees exceed 50, it will be mandatory for the units to have an availability of crèche facility to qualify for the additional subsidy. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 i. In the case of electricity subsidy for existing units, subsidy will be provided as per the
 rates given in Annexure A for a period of 2 years only.
 ii. Post the set period of 2 years, no electricity subsidy will be provided. However, the
@@ -316,10 +349,24 @@ Government Resolution No.: Policy 2023/C.R. 81/Tex-5
 For the new cooperative units under this policy, ratio of self-equity, government equity
 and loan from financial institutions will be as per Zones in Table 2
 Table 2
+----------------------------------------------------------------------
+| Zones | Self-equity | Government equity | Loan from financial institutions |
+| Zone 1 | 5 | 45 | 50 |
+| Zone 2 | 10 | 40 | 50 |
+| Zone 3 | 15 | 35 | 50 |
+| Zone 4 | 20 | 30 | 50 |
+----------------------------------------------------------------------
 Important Note-The cooperative units availing share capital from the State Government shall
 not be eligible for capital subsidy.
 2. Electricity Subsidy: The rates for the electricity subsidy will be as follows
 Table 3
+---------------------------
+| Zones | Electricity Subsidy |
+| Zone 1 | As per Annexure A |
+| Zone 2 |
+| Zone 3 |
+| Zone 4 |
+---------------------------
 i. In the case of electricity subsidy for existing units, subsidy will be provided as per the
 rates given in Annexure A for a period of 2 years only.
 ii. Post the set period of 2 years, no electricity subsidy will be provided. However, the
@@ -362,6 +409,13 @@ The State will offer the following incentives to the eligible unit for reimburse
 Capital Investment Subsidy (CIS) for technology upgradation as per the following rates
 in various Zones
 Table 4
+---------------------------------------------------------------------------------------
+| Zones | Rate of Capital Investment Subsidy (CIS) |
+| Zone 1 | 40% of the basic cost of eligible machinery or INR 25 crore, whichever is less |
+| Zone 2 | 35% of the basic cost of eligible machinery or INR 20 crore, whichever is less |
+| Zone 3 | 30% of the basic cost of eligible machinery or INR 15 crore, whichever is less |
+| Zone 4 | 25% of the basic cost of eligible machinery or INR 10 crore, whichever is less |
+---------------------------------------------------------------------------------------
 Page 12 of 46
 # Page 13
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
@@ -387,9 +441,31 @@ The incentives offered to the spinning mills in the private sector will vary as 
 Zones. The Zonal classification is given in Annexure B. The incentives offered are as follows
 1. Capital and Electricity Subsidy:
 Table 5
+---------------------------------------------------------------------------------------------------------------------
+| S.No | Size/ Zone | Financial Assistance in form of Capital Subsidy-% (on fixed capital investment) | Electricity Subsidy |
+| MSME |
+| 1 | Zone 1 | 45% | As per Annexure A |
+| 2 | Zone 2 | 40% |
+| 3 | Zone 3 | 35% |
+| 4 | Zone 4 | 30% |
+| Large Enterprises |
+| 1 | Zone 1 | 40% | As per Annexure A |
+| 2 | Zone 2 | 35% |
+---------------------------------------------------------------------------------------------------------------------
 Page 13 of 46
 # Page 14
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 3 | Zone 3 | 30% |  |
+| 4 | Zone 4 | 25% |
+| Mega Enterprises |
+| 1 | Zone 1 | 55% with a maximum up to INR 250 crore, whichever is less | As per Annexure A |
+| 2 | Zone 2 | 50% with a maximum up to INR 225 crore, whichever is less |
+| 3 | Zone 3 | 45% with a maximum up to INR 200 crore, whichever is less |
+| 4 | Zone 4 | 40% with a maximum up to INR 175 crore, whichever is less |
+|  | ● High Power Committee (HPC), under Chief Secretary will be constituted to approve the Special Package of Incentives to Ultra Mega projects. For ultra-mega projects the investment will have to be made within a period of 10 years from the date of issue of Letter of Intent from the Department. | As per Annexure A |
+| Please Note | Additional capital subsidy of 5% for SC/ST/ Minority / Ex servicemen units. Additional subsidy of 5% will be eligible for units being run by women (provided that more than 50% of the employees working are women). In case the number of women employees exceed 50, it will be mandatory for the units to have an availability of creche facility to qualify for the additional subsidy. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Note
 i. In the case of electricity subsidy for existing units, subsidy will be provided as per the
 rates given in Annexure A for a period of 2 years only.
@@ -440,6 +516,13 @@ The State will offer the following incentives to the eligible unit for reimburse
 Capital Investment Subsidy (CIS) for technology upgradation as per the following rates
 in various Zones
 Table 6
+---------------------------------------------------------------------------------------
+| Zones | Rate of Capital Investment Subsidy (CIS) |
+| Zone 1 | 40% of the basic cost of eligible machinery or INR 25 crore, whichever is less |
+| Zone 2 | 35% of the basic cost of eligible machinery or INR 20 crore, whichever is less |
+| Zone 3 | 30% of the basic cost of eligible machinery or INR 15 crore, whichever is less |
+| Zone 4 | 25% of the basic cost of eligible machinery or INR 10 crore, whichever is less |
+---------------------------------------------------------------------------------------
 The units will be considered for technology upgradation under the MAHA Technology
 Upgradation Fund Scheme (MAHA-TUFS), provided:
 i. The unit have completed 15 years of production on the existing machinery.
@@ -465,10 +548,24 @@ Government Resolution No.: Policy 2023/C.R. 81/Tex-5
 (excluding plain Powerloom), Weaving, Preparatory, Warping, Sizing, Conning,
 Twisting, Doubling, TFO and other units.
 Table 7
+----------------------------------------------------------------------
+| Zones | Self-equity | Government equity | Loan from financial institutions |
+| Zone 1 | 5 | 45 | 50 |
+| Zone 2 | 10 | 40 | 50 |
+| Zone 3 | 15 | 35 | 50 |
+| Zone 4 | 20 | 30 | 50 |
+----------------------------------------------------------------------
 Important Note-The cooperative units availing share capital from the State Government shall
 not be eligible for capital subsidy.
 2. Electricity Subsidy: The rates for the electricity subsidy will be as follows
 Table 8
+---------------------------
+| Zones | Electricity Subsidy |
+| Zone 1 | As per Annexure A |
+| Zone 2 |
+| Zone 3 |
+| Zone 4 |
+---------------------------
 Note
 i. In the case of electricity subsidy for existing units, subsidy will be provided as per the
 rates given in Annexure A for a period of 2 years only.
@@ -516,6 +613,13 @@ The State will offer the following incentives to the eligible unit for reimburse
 Capital Investment Subsidy (CIS) for technology upgradation as per the following rates
 in various Zones
 Table 9
+---------------------------------------------------------------------------------------
+| Zones | Rate of Capital Investment Subsidy (CIS) |
+| Zone 1 | 40% of the basic cost of eligible machinery or INR 25 crore, whichever is less |
+| Zone 2 | 35% of the basic cost of eligible machinery or INR 20 crore, whichever is less |
+| Zone 3 | 30% of the basic cost of eligible machinery or INR 15 crore, whichever is less |
+| Zone 4 | 25% of the basic cost of eligible machinery or INR 10 crore, whichever is less |
+---------------------------------------------------------------------------------------
 Page 18 of 46
 # Page 19
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
@@ -543,9 +647,31 @@ TFO and other units which will vary as per the Zones. The Zonal classification i
 Annexure B. These incentives will be at par with the private spinning sector.
 1. Capital and Electricity Subsidy
 Table 10:
+---------------------------------------------------------------------------------------------------------------------
+| S.No | Size/ Zone | Financial Assistance in form of Capital Subsidy-% (on fixed capital investment) | Electricity Subsidy |
+| MSME |
+| 1 | Zone 1 | 45% | As per Annexure A |
+| 2 | Zone 2 | 40% |
+| 3 | Zone 3 | 35% |
+| 4 | Zone 4 | 30% |
+---------------------------------------------------------------------------------------------------------------------
 Page 19 of 46
 # Page 20
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Large Enterprises |
+| 1 | Zone 1 | 40% | As per Annexure A |
+| 2 | Zone 2 | 35% |
+| 3 | Zone 3 | 30% |
+| 4 | Zone 4 | 25% |
+| Mega Enterprises |
+| 1 | Zone 1 | 55% with a maximum up to INR 250 crore, whichever is less | As per Annexure A |
+| 2 | Zone 2 | 50% with a maximum up to INR 225 crore, whichever is less |
+| 3 | Zone 3 | 45% with a maximum up to INR 200 crore, whichever is less |
+| 4 | Zone 4 | 40% with a maximum up to INR 175 crore, whichever is less |
+| Ultra Mega Enterprises | High Power Committee (HPC), under Chief Secretary will be constituted to approve the Special Package of Incentives to Ultra Mega projects. For ultra-mega projects the investment will have to be made within a period of 10 years from the date of issue of Letter of Intent from the Department. | As per Annexure A |
+| Please Note | Additional capital subsidy of 5% for SC/ST/ Minority / Ex-servicemen units. Additional subsidy of 5% will be eligible for units being run by women (provided that more than 50% of the employees working are women). In case the number of women employees exceed 50, it will be mandatory for the units to have an availability of creche facility to qualify for the additional subsidy. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Note
 i. In the case of electricity subsidy for existing units, subsidy will be provided as per the rates given in Annexure A for a period of 2 years only.
 Page 20 of 46
@@ -595,6 +721,13 @@ The State will offer the following incentives to the eligible unit for reimburse
 Capital Investment Subsidy (CIS) for technology upgradation as per the following rates
 in various Zones
 Table 11
+---------------------------------------------------------------------------------------
+| Zones | Rate of Capital Investment Subsidy (CIS) |
+| Zone 1 | 40% of the basic cost of eligible machinery or INR 25 crore, whichever is less |
+| Zone 2 | 35% of the basic cost of eligible machinery or INR 20 crore, whichever is less |
+| Zone 3 | 30% of the basic cost of eligible machinery or INR 15 crore, whichever is less |
+| Zone 4 | 25% of the basic cost of eligible machinery or INR 10 crore, whichever is less |
+---------------------------------------------------------------------------------------
 The units will be considered for technology upgradation under the MAHA Technology
 Upgradation Fund Scheme (MAHA-TUFS), provided:
 i. The unit has completed 15 years of production on the existing machinery.
@@ -607,13 +740,77 @@ The Handloom sector is one of the largest unorganized sectors and constitutes an
 integral part of the rural and semi-rural livelihood. As per the 4th Handloom Census conducted
 by Government of India in 2018, Maharashtra has 3354 handlooms in the State which are being
 run by 3509 handloom workers.
+----------------------------------------------------------------------------------------
+| Incentives |
+| 1. The State would extend benefits as provided by the National Handloom Development |
+| Programme (NHDP) scheme of Central Government. There are various components |
+| of the scheme including cluster development programme, handloom marketing |
+| assistance with special emphasis on uncovered and talented weavers, infrastructure and |
+| special projects including Indian Institute of Handloom related projects, Mega |
+| Handloom cluster, Concessional credit/ Weavers MUDRA loan, Handloom Weavers |
+| Welfare and other miscellaneous component. |
+----------------------------------------------------------------------------------------
 Page 22 of 46
 # Page 23
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
+-------------------------------------------------------------------------------------------
+| 1.1 Urban Haats- The scheme for setting up Urban Haats at prime locations in the State to |
+| encourage and facilitate authentic weavers and crafts of Maharashtra. Strategic location |
+| in the State will be chosen to be developed as Urban Haat providing suitable ambience, |
+| with green belts in and around, with sufficient open spaces. The cost of the project up |
+| to INR 800 lakh would be financed as below |
+| Government (Central and State) | Sharing pattern | Total Amount |
+| Central Government | 80% | INR 640 lakh |
+| State Government | 20% | INR 160 lakh and above |
+|  |
+| 1.2 Special, infrastructure & Indian Institute of Handloom technology (IIHT) related |
+| projects- To set up project/ product development / diversification, improving |
+| productivity/ quality of handloom products, value addition of handloom products/ |
+| marketing to meet challenges of dynamic market. Land cost shall be borne by the State |
+| Government and will not be part of project cost. Funding will be in the ratio 80:20 |
+| (Government of India share and State Government share). |
+-------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+| 2. State component in Raw Material Supply Scheme (RMSS)- Government of India |
+| provides 15% price subsidy on yarn (through DBT to linked bank account) with |
+| quantitative restrictions. The state government shall provide an additional 15 percent |
+| price subsidy on yarn. |
+----------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+| Total 30% (15% Government of India share and 15% State share) price subsidy will be |
+| available on cotton hank yarn, domestic silk, woolen and linen yarn and blended yarn |
+| of natural fibers with quantity restrictions. |
+--------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+| 3. Handloom Weavers' Welfare Scheme: The Government of India's Handloom |
+| Weavers' Welfare Scheme (HWCWS) aims to provide universal and affordable Social |
+| Security to the handloom weavers/workers across the country. |
+---------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+| 4.1 The Pradhan Mantri Jeevan Jyoti Bima Yojana offers life insurance cover for death, |
+| due to any reason and is eligible for all handloom weavers/workers in the age group of |
+| 18-50 years. |
+| 4.2 Benefits- INR 2 Lakh will be payable on beneficiary's death due to any reason. The |
+| State Government will bear the annual premium of INR 180/- under the State |
+| Govt/Beneficiary's share'. |
+----------------------------------------------------------------------------------------
 Page 23 of 46
 # Page 24
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
 4.3 The annual premium of INR 330/- will be shared as under
+-----------------------------------
+| Central Government share | INR 150/ |
+| State Government share | INR 180/ |
+| Total Premium | INR 330/ |
+-----------------------------------
+----------------------------------------------------------------------------------
+|  |
+| 4. Promoting online sales by Maharashtra State Handloom Corporation for handloom |
+| marketing arrangement through the web portal- http://www.mahahandloom.com. |
+| 5. Scheme for Supply of Free Electricity to Handloom Weavers households |
+| Handloom weaver households will be provided free electricity up to 200 units per |
+| month. |
+----------------------------------------------------------------------------------
 7.5 Processing Sector
 The processing of yarn and fabrics at pre-loom as well as post-loom stages is
 significantly contributing to the essential customization of the product and aesthetic value
@@ -626,9 +823,31 @@ The incentives offered to the processing sector will vary as per the Zones. The 
 classification is given in Annexure B. The incentives offered are as follows
 1. Capital and Electricity Subsidy:
 Table 12:
+---------------------------------------------------------------------------------------------------------------------
+| S.No | Size/ Zone | Financial Assistance in form of Capital Subsidy-% (on fixed capital investment) | Electricity Subsidy |
+| MSME |
+| 1 | Zone 1 | 45% | As per Annexure A |
+| 2 | Zone 2 | 40% |
+| 3 | Zone 3 | 35% |
+| 4 | Zone 4 | 30% |
+---------------------------------------------------------------------------------------------------------------------
 Page 24 of 46
 # Page 25
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Large Enterprises |
+| 1 | Zone 1 | 40% | As per Annexure A |
+| 2 | Zone 2 | 35% |
+| 3 | Zone 3 | 30% |
+| 4 | Zone 4 | 25% |
+| Mega Enterprises |
+| 1 | Zone 1 | 55% with a maximum up to INR 250 crore, whichever is less | As per Annexure A |
+| 2 | Zone 2 | 50% with a maximum up to INR 225 crore, whichever is less |
+| 3 | Zone 3 | 45% with a maximum up to INR 200 crore, whichever is less |
+| 4 | Zone 4 | 40% with a maximum up to INR 175 crore, whichever is less |
+| Ultra Mega Enterprises | High Power Committee (HPC), under Chief Secretary will be constituted to approve the Special Package of Incentives to Ultra Mega projects. For ultra-mega projects the investment will have to be made within a period of 10 years from the date of issue of Letter of Intent from the Department. | As per Annexure A |
+| Please Note | Additional capital subsidy of 5% for SC/ST/ Minority / Ex-servicemen units. Additional subsidy of 5% will be eligible for units being run by women (provided that more than 50% of the employees working are women). In case the number of women employees exceed 50, it will be mandatory for the units to have an availability of creche facility to qualify for the additional subsidy. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Note
 i. In the case of electricity subsidy for existing units, subsidy will be provided as per the rates given in Annexure A for a period of 2 years only.
 Page 25 of 46
@@ -694,9 +913,31 @@ the Zones. The Zonal classification is given in the Annexure. The incentives off
 follows
 1. Capital and Electricity Subsidy:
 Table 13:
+---------------------------------------------------------------------------------------------------------------------
+| S.No | Size/ Zone | Financial Assistance in form of Capital Subsidy-% (on fixed capital investment) | Electricity Subsidy |
+| MSME |
+| 1 | Zone 1 | 45% | As per Annexure A |
+| 2 | Zone 2 | 40% |
+| 3 | Zone 3 | 35% |
+| 4 | Zone 4 | 30% |
+| Large Enterprises |
+| 1 | Zone 1 | 40% | As per Annexure A |
+---------------------------------------------------------------------------------------------------------------------
 Page 27 of 46
 # Page 28
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 2 | Zone 2 | 35% |  |
+| 3 | Zone 3 | 30% |
+| 4 | Zone 4 | 25% |
+| Mega Enterprises |
+| 1 | Zone 1 | 55% with a maximum up to INR 250 crore, whichever is less | As per Annexure A |
+| 2 | Zone 2 | 50% with a maximum up to INR 225 crore, whichever is less |
+| 3 | Zone 3 | 45% with a maximum up to INR 200 crore, whichever is less |
+| 4 | Zone 4 | 40% with a maximum up to INR 175 crore, whichever is less |
+| Ultra Mega Enterprises | High Power Committee (HPC), under Chief Secretary will be constituted to approve the Special Package of Incentives to Ultra Mega projects. For ultra-mega projects the investment will have to be made within a period of 10 years from the date of issue of Letter of Intent from the Department. | As per Annexure A |
+| Please Note | Additional capital subsidy of 5% for SC/ST/ Minority / Ex-servicemen units. Additional subsidy of 5% will be eligible for units being run by women (provided that more than 50% of the employees working are women). In case the number of women employees exceed 50, it will be mandatory for the units to have an availability of creche facility to qualify for the additional subsidy. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 i. In the case of electricity subsidy for existing units, subsidy will be provided as per the
 rates given in Annexure A for a period of 2 years only.
 Page 28 of 46
@@ -838,6 +1079,12 @@ i Silk Samagra-2- It is an integrated scheme for development of silk industry. I
 assistance to farmers for mulberry plantation, construction of rearing house,
 procurement of rearing equipment's and irrigation facility.
 Financial Assistance
+---------------------------------------------------------------------
+| Category (small and marginal farmers) | Gol | State | Beneficiary |
+| General States | 50% | 25% | 25% |
+| General States- For SCSP & TSP | 65% | 25% | 10% |
+| Special Status States (for General, SCSP & TSP Category | 80% | 10% | 10% |
+---------------------------------------------------------------------
 Page 32 of 46
 # Page 33
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
@@ -915,9 +1162,32 @@ will vary as per the Zones. The capital subsidy will be extended to fiber and ya
 The Zonal classification is given in Annexure B.
 1. Capital and Electricity Subsidy:
 Table 14:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| S.No | Size/ Zone | Financial Assistance in form of Capital Subsidy-% (on fixed capital investment) | Electricity Subsidy |
+| MSME |
+| 1 | Zone 1 | 45% | As per Annexure A |
+| 2 | Zone 2 | 40% |
+| 3 | Zone 3 | 35% |
+| 4 | Zone 4 | 30% |
+| Large Enterprises |
+| 1 | Zone 1 | 40% | As per Annexure A |
+| 2 | Zone 2 | 35% |
+| 3 | Zone 3 | 30% |
+| 4 | Zone 4 | 25% |
+| Mega Enterprises |
+| 1 | Zone 1 | 55% with a maximum up to INR 250 crore, whichever is less | As per Annexure A |
+| 2 | Zone 2 | 50% with a maximum up to INR 225 crore, whichever is less |
+| 3 | Zone 3 | 45% with a maximum up to INR 200 crore, whichever is less |
+| 4 | Zone 4 | 40% with a maximum up to INR 175 crore, whichever is less |
+| Ultra Mega Enterprises | High Power Committee (HPC), under Chief Secretary will be constituted to approve the Special Package of Incentives to Ultra Mega projects. | As per Annexure A |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Page 35 of 46
 # Page 36
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | For ultra-mega projects the investment will have to be made within a period of 10 years from the date of issue of Letter of Intent from the Department. |  |
+| Please Note | Additional capital subsidy of 5% for SC/ST/ Minority / Ex servicemen units. Additional subsidy of 5% will be eligible for units being run by women (provided that more than 50% of the employees working are women). In case the number of women employees exceed 50, it will be mandatory for the units to have an availability of creche facility to qualify for the additional subsidy. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Note
 i. In the case of electricity subsidy for existing units, subsidy will be provided as per the
 rates given in Annexure A for a period of 2 years only.
@@ -1022,9 +1292,31 @@ The Zonal classification is given in the Annexure B.
 Incentives:
 1.1 Capital and Electricity Subsidy
 Table 15:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| S.No | Size/ Zone | Financial Assistance in form of Capital Subsidy-% (on fixed capital investment) | Electricity Subsidy |
+| MSME |
+| 1 | Zone 1 | 45% | As per Annexure A |
+| 2 | Zone 2 | 40% |
+| 3 | Zone 3 | 35% |
+| 4 | Zone 4 | 30% |
+| Large Enterprises |
+| 1 | Zone 1 | 40% | As per Annexure A |
+| 2 | Zone 2 | 35% |
+| 3 | Zone 3 | 30% |
+| 4 | Zone 4 | 25% |
+| Mega Enterprises |
+| 1 | Zone 1 | 55% with a maximum up to INR 250 crore, whichever is less | As per Annexure A |
+| 2 | Zone 2 | 50% with a maximum up to INR 225 crore, whichever is less |
+| 3 | Zone 3 | 45% with a maximum up to INR 200 crore, whichever is less |
+| 4 | Zone 4 | 40% with a maximum up to INR 175 crore, whichever is less |
+| Ultra Mega Enterprises | High Power Committee (HPC), under Chief Secretary will be constituted to approve the Special Package of Incentives to Ultra Mega projects. ● For ultra-mega projects the investment will have to be made within a period of 10 years from the date of issue of Letter of Intent from the Department. | As per Annexure A |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Page 39 of 46
 # Page 40
 Government Resolution No.: Policy 2023/C.R. 81/Tex-5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Please Note | Additional capital subsidy of 5% for SC/ST/ Minority / Ex servicemen units. Additional subsidy of 5% will be eligible for units being run by women (provided that more than 50% of the employees working are women). In case the number of women employees exceed 50, it will be mandatory for the units to have an availability of creche facility to qualify for the additional subsidy. |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 i. In the case of electricity subsidy for existing units, subsidy will be provided as per the
 rates given in Annexure A for a period of 2 years only.
 ii. Post the set period of 2 years, no electricity subsidy will be provided. However, the
